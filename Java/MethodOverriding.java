@@ -1,0 +1,35 @@
+
+
+class Calc
+{
+    public int add(int n1, int n2)
+    {
+        return n1+n2;
+    }
+}
+
+class AdvCalc extends Calc
+{
+    public int add(int n1, int n2)
+    {
+        return n1+n2+1;
+    }
+    
+    
+}
+
+public class MethodOverriding 
+
+{
+    public static void main(String[] args) 
+    {
+        AdvCalc obj = new AdvCalc();
+        int r1 = obj.add(3,4);
+        System.out.println(r1);
+    }
+
+}
+
+//we can see that the method add has been overriden by AdvCalc whose parent class is Calc.
+//add method of the second method is being used here.
+
