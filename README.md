@@ -1,6 +1,6 @@
 # 📘 Java Learning Repository – Code + Custom Notes
 
-Welcome to my Java learning repository! This repo contains all the Java programs and **custom notes** I wrote while learning the language. My aim was to deeply understand each topic — so the notes are not generic copy-paste but simplified in **my own words**, with **diagrams**, **examples**, and **use cases** where needed.
+Welcome to my Java learning repository! This repo contains all the Java programs and **custom notes** I wrote while learning the language. My aim was to deeply understand each topic - so the notes are not generic copy-paste but simplified in **my own words**, with **diagrams**, **examples**, and **use cases** where needed.
 
 ---
 
@@ -23,10 +23,10 @@ Welcome to my Java learning repository! This repo contains all the Java programs
 
 ## 🧠 What Makes This Repo Unique
 
-- 📒 **Self-written notes** – Not textbook-style; written in a way *I* understand and remember better.
-- 🚀 **Beginner-friendly code** – Step-by-step build-up of each concept.
-- 🧪 **Test cases and examples** – Included wherever possible.
-- 📌 **Clear file names** – So you know what each code snippet demonstrates.
+- 📒 **Self-written notes** - Not textbook-style; written in a way *I* understand and remember better.
+- 🚀 **Beginner-friendly code** - Step-by-step build-up of each concept.
+- 🧪 **Test cases and examples** - Included wherever possible.
+- 📌 **Clear file names** - So you know what each code snippet demonstrates.
 
 ---
 
@@ -79,8 +79,7 @@ Have suggestions or corrections? Feel free to:
 This project is open-sourced under the MIT License.
 
 
-Made with 💻 + ☕ by Deepansh Sabharwal
-
+**Made with 💻 + ☕ by Deepansh Sabharwal**
 
 ---
 
