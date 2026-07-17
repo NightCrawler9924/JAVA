@@ -81,7 +81,3 @@ This project is open-sourced under the MIT License.
 
 **Made with 💻 + ☕ by Deepansh Sabharwal**
 
----
-
-You can copy-paste this into your `README.md` file directly. Let me know if you'd like a version with emojis removed, more technical depth, or note previews added!
-
